@@ -1,4 +1,4 @@
-# SecretsCode: Culinary Wisdom Unleashed
+ SecretsCode: Culinary Wisdom Unleashed
 
 Welcome to SecretsCode, a unique project that blends the art of coding with the secrets of culinary and life wisdom.
 
