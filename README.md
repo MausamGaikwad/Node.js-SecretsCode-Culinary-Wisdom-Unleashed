@@ -1,4 +1,4 @@
- SecretsCode: Culinary Wisdom Unleashed
+# SecretsCode: Culinary Wisdom Unleashed
 
 Welcome to SecretsCode, a unique project that blends the art of coding with the secrets of culinary and life wisdom.
 
@@ -35,4 +35,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**SecretsCode** - Where coding meets culinary and life secrets. Unleash the wisdom, one line of code at a time.
+*SecretsCode** - Where coding meets culinary and life secrets. Unleash the wisdom, one line of code at a time.
