@@ -15,7 +15,7 @@ This project features a web application where users can unlock hidden recipes an
 ## Getting Started
 
 1. Clone the repository.
-2. Install dependencies using `npm install`.
+2. Install dependencies using ``npm install`.
 3. Run the server with `npm start`.
 4. Open the application in your browser at `http://localhost:3000`.
 
