@@ -35,4 +35,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-### SecretsCode - Where coding meets culinary and life secrets. Unleash the wisdom, one line of code at a time.
+**SecretsCode** - Where coding meets culinary and life secrets. Unleash the wisdom, one line of code at a time.
